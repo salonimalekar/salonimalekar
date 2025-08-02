@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Saloni Malekar
 
-<!--
-**salonimalekar/salonimalekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Engineering Student at VIT Mumbai  
+🧠 Passionate about Medical Imaging, ML in Healthcare, and Smart Devices  
+🔬 Currently working on Lung Disease Detection, Smart Nebulizer, and Kidney Stone Detection
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack  
+- Languages: Python, Java, C  
+- Tools: TensorFlow, OpenCV, Streamlit, Git  
+- Specializations: Machine Learning, Medical Imaging, IoT, Clinical Data
+
+---
+
+📫 Let’s connect:  
+[LinkedIn](www.linkedin.com/in/saloni-malekar)  
+
