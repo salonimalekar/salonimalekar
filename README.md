@@ -2,7 +2,7 @@
 
 🎓 Biomedical Engineering Student at VIT Mumbai  
 🧠 Passionate about Medical Imaging, ML in Healthcare, and Smart Devices  
-🔬 Currently working on Lung Disease Detection, Smart Nebulizer, and Kidney Stone Detection
+
 ---
 
 ## 💻 Tech Stack  
